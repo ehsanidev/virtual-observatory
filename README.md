@@ -2,7 +2,7 @@
 
 An interactive 3D observatory simulation using **Three.js**, featuring celestial animations and a realistic space environment.  
 
-![Project Preview](./preview.gif)  
+![Project Preview](demo.gif)  
 
 ## ✨ Features  
 
